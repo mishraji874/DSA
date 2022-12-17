@@ -76,7 +76,7 @@ int main()
 {
     int A[] = {10, 20, 40, 50, 60};
     create(A, 5);
-    Reverse1(frist);
-    Display(frist);
+    Reverse1(first);
+    Display(first);
     return 0;
 }

@@ -52,7 +52,7 @@ int main()
 {
     int A[] = {10, 20, 20, 40, 50, 50, 50, 60};
     create(A, 8);
-    RemoveDuplicate(frist);
-    Display(frist);
+    RemoveDuplicate(first);
+    Display(first);
     return 0;
 }
